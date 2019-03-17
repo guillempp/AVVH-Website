@@ -1,0 +1,121 @@
+body {
+	background-color: #ffffff;
+}
+img {
+	max-width: 100%;
+}
+.quitar-float {
+	float: none;
+}
+.espacio-arriba {
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+.ubuntu {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 3em;
+}
+.ubuntumini {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 1.5em;
+}
+.pacifico {
+	font-family: 'Pacifico', cursive;
+	font-size: 3em;
+}
+.raleway {
+	font-family: 'Raleway', sans-serif;
+	font-size: 3em;
+}
+.raleway2 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.5em;
+}
+.raleway3 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1em;
+}
+.distanciaentrenav {
+	word-spacing: 1em;
+	margin-top: 1em;
+}
+.acercadespacing {
+	word-spacing: 0.0001em;
+}
+.wordcolor {
+	color: #FFFFFF;
+}
+a {
+	color: black;
+}
+a:hover {
+	color: black;
+}
+a:visited {
+	color: black;
+}
+.nolista {
+	margin: 0px;
+	padding: 0px;
+}
+.nolista li {
+	list-style-type: none;
+}
+.se-gris {
+	background-color: #eee;
+}
+.padding-largo {
+	padding: 10px 20px;
+}
+.inline-block {
+	float: none;
+	display: inline-block;
+}
+.retraso1 {
+	animation-delay: 1s;
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+}
+.retraso2 {
+	animation-delay: 2s;
+	-webkit-animation-delay: 2s;
+	-moz-animation-delay: 2s;
+}
+.retraso3 {
+	animation-delay: 3s;
+	-webkit-animation-delay: 3s;
+	-moz-animation-delay: 3s;
+}
+.titulo {
+	text-align: center
+}
+.benvinguts {
+	background-color: white;
+	text-align: justify;
+	padding-left: 25px;
+	padding-right: 25px;
+	font-size: 17px;
+}
+.futer {
+	text-align: center
+}
+.logo {
+	color: black;
+}
+#blogBtn {
+	display:inline-block;
+	color:#FFF;
+	background-color:#dd4814;
+	border-radius:10px;
+	padding:10px 15px;
+	font-size:20px;
+	margin-top:10px;
+	text-decoration:none;
+}
+#blogBtn:hover {
+	text-decoration:none;
+	background-color:#999;
+}
+#blogBtn:visited {
+	text-decoration:none;
+}
