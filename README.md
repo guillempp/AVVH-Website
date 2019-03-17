@@ -9,3 +9,8 @@ High School Project - Webpage for the neighbor association.
 * Implement Javascript code
 * Create a responsive webpage
 * Work as a voluntary
+
+
+# LICENSES
+
+Bootswatch code - Copyright (c) 2013 Thomas Park
