@@ -13,5 +13,6 @@ High School Project - Webpage for the neighbor association.
 
 # LICENSES
 
-Bootswatch code - Copyright (c) 2013 Thomas Park
+Bootswatch code - Copyright (c) 2013 Thomas Park.
+
 PHPMailer - Copyright (c) 2004-2007, Andy Prevost. All Rights Reserved. Copyright (c) 2001-2003, Brent R. Matzelle    
